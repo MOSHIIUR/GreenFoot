@@ -1,17 +1,12 @@
 # Laravel 9 & React js 
 
-## Screenshots
-
-![preview img](/preview.png)
-![preview img](/preview1.png)
-![preview img](/preview2.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Sazib-Ahmed/GreenFoot--Laravel-Project
+  git clone https://github.com/MOSHIIUR/GreenFoot
 ```
 
 Go to the project directory
