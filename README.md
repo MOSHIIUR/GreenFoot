@@ -37,3 +37,9 @@ Go to the project directory
 
 -   email = admin@example.com
 -   password = 123
+
+#### Developed By:
+
+-[Sazib Ahmed](https://github.com/Sazib-Ahmed)
+-[Moshiur Rahman](https://github.com/MOSHIIUR)
+
