@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/MOSHIIUR/GreenFoot
+  git clone https://github.com/MOSHIIUR/GreenFoot.git
 ```
 
 Go to the project directory
