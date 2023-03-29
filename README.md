@@ -40,6 +40,6 @@ Go to the project directory
 
 #### Developed By:
 
--[Sazib Ahmed](https://github.com/Sazib-Ahmed)
--[Moshiur Rahman](https://github.com/MOSHIIUR)
+-   [Sazib Ahmed](https://github.com/Sazib-Ahmed)
+-   [Moshiur Rahman](https://github.com/MOSHIIUR)
 
